@@ -1,0 +1,13 @@
+python-dotenv
+requests
+openai
+snscrape
+tweepy
+pandas
+numpy
+langchain
+matplotlib
+python-telegram-bot
+notion-client
+gspread
+pymongo
